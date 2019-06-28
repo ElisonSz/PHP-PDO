@@ -1,0 +1,19 @@
+.fm-nav{
+
+    padding:8px;
+    background:#2D171D;
+}
+
+.fm-nav a{
+    color:#FFF;
+    font-size:18px;
+}
+
+.fm-nav a:hover{
+
+    background: rgba(255, 255, 255,.3);
+}
+.fdo{
+    background: #2D171D;
+    color: #FFF;
+}
